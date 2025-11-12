@@ -1,7 +1,1 @@
-# THIS IS A TITLE
-
-## This is a subtitle
-
-*Here is some italic text.*
-
-**This is bold!**
+# EAS 1310 Notes
