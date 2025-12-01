@@ -49,7 +49,8 @@ git config --global user.email "your_github_email@example.com"
 
 ### The Clone Operation
 I copied the remote repository to my local Linux environment  using the SSH URL. This creates a local copy that tracks the remote history:
-```bash
+
+
 git clone git@github.com:username/EAS1330_Lab8.git
 
 git add .:Made local changes
