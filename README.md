@@ -39,8 +39,6 @@ Before connecting to GitHub from the Linux environment, I performed the followin
 
 This makes my commits with my identity.
 
-```bash
-
 git config --global user.name "Your Name"
 
 git config --global user.email "your_github_email@example.com"
