@@ -54,8 +54,11 @@ I copied the remote repository to my local Linux environment  using the SSH URL.
 git clone git@github.com:username/EAS1330_Lab8.git
 
 git add .:Made local changes
+
 git commit -m "A message describing the update": Created a local snapshot of the changes with a descriptive message.
+
 git push: Uploaded the committed history to GitHub.
+
 git pull: To get updates made by others to my local copy, I used:
 
 ## 4. How to Fix Sync Issues: 
